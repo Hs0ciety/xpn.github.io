@@ -1,18 +1,9 @@
-# front cover jekyll theme
+# xpn.github.io
 
-## Why choose this jekyll theme for your front page?
-* You don't have to modify any HTML, everything can be modified in config.yml.
-* Very lightweight. No Javascript, No Bootstrap etc..
-* MIT licensed.
+## What is this?
 
+This is the home of xpn.github.io, built in Jekyll, this is the hub of my projects, providing links to social media accounts, blog etc.
 
-## See it in action
-<a href="https://dashingcode.github.io/front-cover/">Live demo page</a>
+## Thanks
 
-## Credits
-The background image that was used as an example comes from Tom Hall.
-You can find it on <a href="https://flic.kr/p/pqEPBb">Flickr</a>.
-It's licensed under Creative-Commons.
-
-This theme makes use of the amazing <a href="http://fontawesome.io/">Font Awesome</a> icons.
-
+Thanks needs to be said to https://dashingcode.github.io/front-cover/ for providing the theme.
