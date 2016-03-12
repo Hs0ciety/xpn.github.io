@@ -1,0 +1,32 @@
+# Site settings
+name: XPN Security
+description: "Hacker and InfoSec Researcher"
+url: "http://xpn.github.io"
+
+
+# Delete the lines you don't need
+email: xpnsec@protonmail.com
+github_username:  xpn
+twitter_username: _xpn_
+tumblr_username: xpnsec
+#medium_username:  your_medium_username_goes_here
+# If you don't have a blog page delete the next line
+#blog_url: "http://xpnsec.tumblr.com"
+vuln_url: "/vulns"
+about_url: "/about"
+
+
+avatar: yes
+avatar_img_path: "imgs/avatar.jpg"
+# You can link to your GitHub image. That way it will get updated 
+# automatically whenever you change your GitHub profile picture
+#avatar_img_path: "https://avatars2.githubusercontent.com/u/17301305"
+
+
+front_img: yes
+front_img_path: "imgs/background2.png"
+#front_img_path: "http://www.emreakkaya.org/wp-content/uploads/2015/05/filename.png"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
