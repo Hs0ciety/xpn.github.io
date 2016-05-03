@@ -14,12 +14,12 @@ tumblr_username: xpnsec
 # If you don't have a blog page delete the next line
 #blog_url: "http://xpnsec.tumblr.com"
 vuln_url: "/vulns"
-about_url: "/about"
+about_url: "https://xpnsec.tumblr.com/about"
 
 
 avatar: yes
 avatar_img_path: "imgs/avatar.jpg"
-# You can link to your GitHub image. That way it will get updated 
+# You can link to your GitHub image. That way it will get updated
 # automatically whenever you change your GitHub profile picture
 #avatar_img_path: "https://avatars2.githubusercontent.com/u/17301305"
 
