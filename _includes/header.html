@@ -1,3 +1,13 @@
+<script>
+    $(function(){
+        $(".element").typed({
+            strings: ["{{ site.description }}^5000", "{{ site.funny1  }}^2000", "<script>alert(1)</" + "script>^3000", "{{ site.funny3 }}^2000", "{{ site.funny4 }}"],
+	    contentType: 'text',
+            typeSpeed: 0
+        });
+    });
+</script>
+
 <div class="content">
 
     {% if site.github_fork %}
@@ -13,7 +23,7 @@
     {% endif %}
 
     <h1>{{ site.name }}</h1>
-    <h3>{{ site.description }}</h3>
+    <h3><span class="element">{{ site.description }}</span></h3>
 
         <ul>
             {% if site.github_username %}

@@ -2,7 +2,10 @@
 name: XPN Security
 description: "Hacker and InfoSec Researcher"
 url: "https://xpn.github.io"
-
+funny1: "Enjoy your perfectly constructed loop"
+#funny2: "<script>alert(1)</script>"
+funny3: "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+funny4: "Hacker and InfoSec Researcher"
 
 # Delete the lines you don't need
 email: xpnsec@protonmail.com
