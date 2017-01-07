@@ -32,9 +32,9 @@
             {% if site.twitter_username %}
             <li><a class="fa fa-2x fa-twitter" href="https://twitter.com/{{ site.twitter_username }}"><span class="description">Twitter</span></a></li>
             {% endif %}
-            <!-- {% if site.blog_url %}
-            <li><a class="fa fa-2x fa-tags" href="{{ site.baseurl }}{{ site.blog_url }}"><span class="description">Blog</span></a></li>
-            {% endif %} -->
+            {% if site.keybase_username %}
+            <li><a class="fa fa-2x fa-lock" href="https://keybase.io/{{ site.keybase_username }}"><span class="description">Keybase</span></a></li>
+            {% endif %}
             {% if site.tumblr_username %}
             <li><a class="fa fa-2x fa-tags" href="http://{{ site.tumblr_username }}.tumblr.com"><span class="description">Blog</span></a></li>
             {% endif %}
