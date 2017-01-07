@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/xpn
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://xpnsec.github.io
+  * I am xpn (https://keybase.io/xpn) on keybase.
+  * I have a public key with fingerprint 6822 0B71 BB92 8ABC 8171  4C0F 6B0B E64F 9AF4 238C
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101ae894672cb92380fcc43d0e6d862a3fa8a5c6734570375bcf221ab7ae75a0f830a",
+            "fingerprint": "68220b71bb928abc81714c0f6b0be64f9af4238c",
+            "host": "keybase.io",
+            "key_id": "6b0be64f9af4238c",
+            "kid": "0101ae894672cb92380fcc43d0e6d862a3fa8a5c6734570375bcf221ab7ae75a0f830a",
+            "uid": "f850b098bc1da02b48755bda44c32719",
+            "username": "xpn"
+        },
+        "service": {
+            "hostname": "xpnsec.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1483794133,
+    "expire_in": 157680000,
+    "prev": "bbf962d8718307924b8090c90591321215514e479d1b55a48ac1bd755093e394",
+    "seqno": 17,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.61
+Comment: https://keybase.io/crypto
+
+yMItAnicrVJbSBVBGD6aeUrITMOgG7VdCD3YzO7szu6BKCjtKSktEkwPM7uzx009
+Z9uzWnaxHioo6IKRZkGRZRJlUShGkNiVsofofsPuRRdKwkoqyWat6KXH5mWY//++
+7/++n7kwbJAvKa6hI6Pu2/0T0+Ounq2r8BXYr26vEmjUqBKCq4RSNnCxMoPF3FCp
+ZQhBAUAACVM1pGBRp5ooqcDUdSQZgCmGqohEMolKZF3BEpIxkLBMdVMUIaGYMCwT
+YKoSIEJAMK1ImDm2Y0VcLquooggohpRLqoTqKsQQ6cBUKKBMQaZGTMRn6ZxYEo15
+DG6OkhjLsqK8xh+hAXv/wP9n3xUDcqYqAwo0lerQIECkSMWyTA2CkC6JGGoeMMac
+CClnHL3CjghrAgIvVFo683bqhfjbjDE9K2y5JRX0VxzbibpRPVrGuyWua8eCHtut
+sj34ckZDv4VC1IoYfI2cUcmcmBWNCEHIkbprecoQqRLWEJSkgMBW2JbDQpaHkLGi
+An68OaySS1JqaopoqBjyjFgTEVWBBnQNyBqURChCWYaIIawZkMoyQSrRITV4YKBJ
+TNKQ4EVbFolybcx9kjDXjFnhCHErHCasOdexJMEXl+RLHBzv/S9f0tCUP7/uTqq/
+P8+qbehrrj9gBt9k5c/tr/0kVtatXvS8PG90+tqX3TXrXvlbH9Y/zR8xZVnXsX1p
+j4vkxmBOekpn75hR82u/4km59z76957eWp6yYGzNyxcF4tH8jkvX3jR+mrNhwrj3
+34fMG79zJUz9dnhb06jA/Udpnc3jim/cuj0xoS13aldR9k2UXBM6bvaEhSP1duGh
+e5/7dtsj20csdgI7Mp/0a5umpM/qqXl2sjp514OLLfkZ3eu3NL+eMeRdz5UbTQd7
+L5/piV+oZU52Rn9Yur1t/4Zi8HVn64+31/eUtc8+XDhyc+LQguS71d/L13W9m/sl
+LcE/s6n7Vm52ZrVReupx37SW4QlHzufsaNz4EwCYRmo=
+=GAar
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/xpn
+
+==================================================================
