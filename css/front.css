@@ -108,7 +108,6 @@ li {
 }
 li > a {
     text-align: justify;
-    border: 2px solid white;
     border-radius: 5px;
     color: white;
     padding: 15px;
